@@ -1,0 +1,25 @@
+       --- Operating Point (Atuador em HIGH)---
+
+V(drain):	 0.760553	 voltage
+V(gate):	 3.29971e+008	 voltage
+V(n001):	 12	 voltage
+Id(M1):	 1.12394	 device_current
+Ig(M1):	 0	 device_current
+Ib(M1):	 -2.71544e-011	 device_current
+Is(M1):	 -1.12394	 device_current
+I(I1):	 0.00033	 device_current
+I(R2):	 1.12394	 device_current
+I(V2):	 -1.12394	 device_current
+
+       --- Operating Point (Atuador em LOW) ---
+
+V(drain):	 11.9999	 voltage
+V(gate):	 0	 voltage
+V(n001):	 12	 voltage
+Id(M1):	 5.40059e-006	 device_current
+Ig(M1):	 0	 device_current
+Ib(M1):	 -6.803e-011	 device_current
+Is(M1):	 -5.40053e-006	 device_current
+I(I1):	 0	 device_current
+I(R2):	 5.40059e-006	 device_current
+I(V2):	 -5.40059e-006	 device_current
