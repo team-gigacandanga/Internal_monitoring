@@ -7,7 +7,7 @@ SMCAI V1.0 - Sistema de Monitoramento e Controle para Ambientes Internos
 [Atuadores] BT134-600E (Controlador de cargas AC), IRF840 (Controlador de Cargas DC), TIL32 (Emissor IR);
 
 ---------------------
-Atualização V1.1
+Atualização V1.2
 Autor: Ítalo Rodrigo 
 DATA: 06/08/2019
 ---------------------
